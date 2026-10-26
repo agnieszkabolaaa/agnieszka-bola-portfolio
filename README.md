@@ -1,10 +1,10 @@
 # Agnieszka Bola Portfolio
 
-A one-page portfolio for a Tech Lead, Engineering Manager, and Senior Software Engineer. It includes an English/Polish language switch; both translations are maintained in `lib/translations.ts`.
+A one-page portfolio for a Tech Lead, Engineering Manager, and Senior Software Engineer.
 
 ## Contact links
 
-The email link is in `components/Contact.tsx`. LinkedIn destinations for the Contact and Experience sections are in `lib/translations.ts` for both languages.
+The email link is in `components/Contact.tsx`. LinkedIn destinations for the Contact and Experience sections are in `lib/translations.ts`.
 
 ## Run locally
 
